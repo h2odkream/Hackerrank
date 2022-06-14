@@ -1,4 +1,4 @@
-# Hackerrank
+# Sort Lexicographically
 
 "A string is traditionally a sequence of characters, either as a literal constant or as some kind of variable." — Wikipedia: String (computer science)
 
